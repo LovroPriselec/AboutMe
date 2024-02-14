@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LovroPriselec
-- 👀 I’m interested in ... app and software development.
-- 🌱 I’m currently learning ... problem solving, app development.
-- 💞️ I’m looking to collaborate on ... anything interesting, I am open to every new idea.
-- 📫 How to reach me ... lpriselecbusiness@gmail.com or @lovro_priselec on Instagram and Twitter
--
+- 👀 I’m interested in app and software development, security systems and use of programming in everyday life.
+- 🌱 I’m student at Faculty of Electrical Engeneering and Computing in Zagreb.
+- 💞️ I’m looking to collaborate on anything interesting, I am open to every new idea.
+- 📫 How to reach me lpriselecbusiness@gmail.com or @lovro_priselec on Instagram and Twitter
